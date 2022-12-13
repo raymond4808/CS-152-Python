@@ -11,7 +11,7 @@ def upper_first_word(aString):
             return upperFirst
 
 def main ():
-    print(upper_first_word("Testing String"))
+    print(upper_first_word("Testing String wasdasdasda"))
 
 main()
 
